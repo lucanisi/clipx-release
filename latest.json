@@ -5,7 +5,7 @@
   "platforms": {
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWk1CRS8zQVFPclZ6Vis4YlFydnJYNUEyV1BzakFyU0hIQ2RaY0RpZVhxT1ZpcUtjdlNWUUoyc2xKZDdmZVVJQ3B3eVZEOVpZbmFVMktvMWd1V2krSU84YWZ4SjdnalFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzIzNDcxNjIxCWZpbGU6Q2xpcFguYXBwLnRhci5negoxUTRXRkxSV3h4dm8xelQxTmx4R1FRc3IzdVlPNjZRWlpFdDNCdDdiU0pOOEZzbFVlWVhkcEs3cExmKzJzdTFWVmg0WTA5aUJkdDVDRlRWNEc4VGZCQT09Cg==",
-      "url": "https://github.com/lucanisi/clipx-release/releases/download/v0.6.7/ClipX-aarch64.app.tar.gz"
+      "url": "https://github.com/lucanisi/clipx-release/releases/download/v0.6.7/ClipX.app.tar.gz"
     }
   }
 }
