@@ -1,5 +1,5 @@
 {
-  "version": "v0.6.7",
+  "version": "v0.6.8",
   "notes": "- SVG Handler\n- Autofocus on search box\n- Shortcut selector improvements\n- Minor fixes",
   "pub_date": "2024-08-12T17:00:00Z",
   "platforms": {
