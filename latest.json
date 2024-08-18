@@ -1,11 +1,11 @@
 {
-  "version": "v0.6.11",
-  "notes": "- Compact mode\n- SVG Handler\n- Autofocus on search box\n- Shortcut selector improvements\n- Minor fixes",
-  "pub_date": "2024-08-15T16:44:00Z",
+  "version": "v0.7.1",
+  "notes": "- ClipX is now ClipForge!\n- Embedded Clip Editor\n- Fixes and improvements",
+  "pub_date": "2024-08-18T12:36:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWk1CRS8zQVFPclZSd1QwR05XOU4yejRBME1RVk53S1V0ZncxS2dCb2FWUDgySmp3NE1QVzVHM3h6Y213dUFBaFo5bUlxVERRM3hIaVhzT1lKNGxXcDlEcFp2aEN5N0FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzIzNzMzMDI0CWZpbGU6Q2xpcFguYXBwLnRhci5negpNSHVKOWdyRDhGR3lYcERLVE5GOHV6YjM5cFU3SlU0VWJ6dW5zcG96djhmSmdPNFIrcFgrWW1ibXJFelFTeno0cURkRzkvbWJyL3pSUUFCa2xsZk1DQT09Cg==",
-      "url": "https://github.com/lucanisi/clipx-release/releases/download/v0.6.11/ClipX.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWk1CRS8zQVFPclJOcmlpUkMxR1FxYmpmQ1MrZW44UExwVGF2em0zNFVIL0hPTUFXOVRCVnZnMjIwWGF2dUV3cGdkaThaSWVqOGlKa3U2cldXV3Iya1hSQkNFQjdLdGdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzIzOTc3MjU0CWZpbGU6Q2xpcEZvcmdlLmFwcC50YXIuZ3oKdVJkaFpEODJPdzJzUmE3UWhZR3Z1Y0lkakMwc2NJbHRjUjNwY1FxdDQrR0ZuOHhCVzd5a2NqZEd1WTFjTDEwclFabVY0YnJSa1RrVmRqSFVlcGRvQVE9PQo=",
+      "url": "https://github.com/lucanisi/clipx-release/releases/download/v0.7.1/ClipForge.app.tar.gz"
     }
   }
 }
