@@ -4,7 +4,7 @@
   "pub_date": "2024-08-19T19:00:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWk1CRS8zQVFPclh0LzRGaGt4d1JyM2NOeVFMRzRoZm9pYWNmMSsydldGcmkxSjI5VzVXcHA4VExVbGVOcnREVHExSHBuUVZpekU1cWlwanB2WEdaSzFRRGliL0hlOVFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI0MDg2NzA1CWZpbGU6Q2xpcFguYXBwLnRhci5negorSnd4YjRaOWtiYnFOSTB0OEYwelVwVVVlczAvZWhyeGZWVE42a1ZpNnNlalVWOG5CQVg5T3NMQm9VWnhtS016TG4wcjNwczJtTER2YUhNWTVQdkdEZz09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWk1CRS8zQVFPclhybU9wTXhzbXFNdXk2UU9ocVpyTUZUaXZ2dUxxT25wZ2N0d1RvdHBhbUNmOThtWSsySXhHSklTVXpMVkdJaXVra0ppVzVJQnpUMC9KM3NsZWd6NFFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI0MDg4NjQ4CWZpbGU6Q2xpcFguYXBwLnRhci5negpFMW9FVXZHY1F4VDQ2YWFRMVhrQWdSNGkyeFZSTlMvaUFmckhtQ2lyc2NMcmdMTndwTnJobnJWeS9sTkZ3NFhaT3dNb1QyM1lGT0M5Vm1UQTdYdTBCdz09Cg==",
       "url": "https://github.com/lucanisi/clipx-release/releases/download/v0.7.4/ClipX.app.tar.gz"
     }
   }
