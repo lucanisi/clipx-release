@@ -1,11 +1,11 @@
 {
-  "version": "v0.7.1",
-  "notes": "- Rebranding\n- Embedded Clip Editor\n- Fixes and improvements",
-  "pub_date": "2024-08-18T12:53:00Z",
+  "version": "v0.7.4",
+  "notes": "- Enhanced Clip Editor [More code-higlight languages, Clip Label, Last Update, Set/Unset Favorite]\n- Improved performance (Load & Runtime), Code Splitting\n- More minor fixes",
+  "pub_date": "2024-08-19T19:00:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWk1CRS8zQVFPclRjZ21BQXF6Y0k5UTY4d3F4ek9aSjhjVUpRb09qZ1FTa0hWZDZkdWIwSzJMQzJqd2ptenozOUpNOXRiYVFLNktQSSsyVEZNemFUTzZVZGhiQ0lZQUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzIzOTc4MzE4CWZpbGU6Q2xpcFguYXBwLnRhci5negoxa3RZRFdIS204WHZ1ZC96azBReVlMWlpTZmJoS1lwbUJlTHVJRm5vMGhtR1dRVDg3MDZ3bVl1NWVXekZDNVJjbVEvVms3c2lDbWtUNlNCeGxreU9EQT09Cg==",
-      "url": "https://github.com/lucanisi/clipx-release/releases/download/v0.7.1/ClipX.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWk1CRS8zQVFPclh0LzRGaGt4d1JyM2NOeVFMRzRoZm9pYWNmMSsydldGcmkxSjI5VzVXcHA4VExVbGVOcnREVHExSHBuUVZpekU1cWlwanB2WEdaSzFRRGliL0hlOVFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI0MDg2NzA1CWZpbGU6Q2xpcFguYXBwLnRhci5negorSnd4YjRaOWtiYnFOSTB0OEYwelVwVVVlczAvZWhyeGZWVE42a1ZpNnNlalVWOG5CQVg5T3NMQm9VWnhtS016TG4wcjNwczJtTER2YUhNWTVQdkdEZz09Cg==",
+      "url": "https://github.com/lucanisi/clipx-release/releases/download/v0.7.4/ClipX.app.tar.gz"
     }
   }
 }
